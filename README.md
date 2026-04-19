@@ -7,7 +7,7 @@
 
 ## Deskripsi Aplikasi
 
-Aplikasi ini adalah implementasi antarmuka Form Login, Registrasi, dan Profil berbasis seluler (React Native dan Expo) yang dirancang untuk memenuhi **Spesifikasi Tugas Praktikum Week 7**. Menitikberatkan pada pengelolaan (*state*) *form* dan validasi *client-side* yang komprehensif, proyek ini mendemonstrasikan perpaduan fungsional library **Formik**, **Yup**, dan **AsyncStorage** untuk mensimulasikan kelancaran autentikasi data pengguna mulai dari nol hingga level lanjut (UX yang baik).
+Aplikasi ini adalah implementasi antarmuka Form Login, Registrasi, dan Profil berbasis seluler (React Native dan Expo) pada pengelolaan (*state*) *form* dan validasi *client-side* yang komprehensif, proyek ini mendemonstrasikan perpaduan fungsional library **Formik**, **Yup**, dan **AsyncStorage** untuk mensimulasikan kelancaran autentikasi data pengguna mulai dari nol hingga level lanjut (UX yang baik).
 
 ## Fitur yang Diimplementasikan
 
