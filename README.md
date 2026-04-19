@@ -30,19 +30,19 @@ Aplikasi ini adalah implementasi antarmuka Form Login, Registrasi, dan Profil be
 ### Halaman Registrasi (Validasi Form Input)
 <p align="center">
   <!-- Ganti gambar dengan screenshot asli aplikasi Anda -->
-  <img src="./assets/ss_register.jpeg" alt="Screenshot Halaman Register" width="250" />
+  <img src="./assets/register.jpeg" alt="Screenshot Halaman Register" width="250" />
 </p>
 
 ### Halaman Login Default
 <p align="center">
   <!-- Ganti gambar dengan screenshot asli aplikasi Anda -->
-  <img src="./assets/ss_login.jpeg" alt="Screenshot Halaman Login" width="250" />
+  <img src="./assets/login.jpeg" alt="Screenshot Halaman Login" width="250" />
 </p>
 
 ### Halaman Profil Beranda (Sesudah Registrasi)
 <p align="center">
   <!-- Ganti gambar dengan screenshot asli aplikasi Anda -->
-  <img src="./assets/ss_home.jpeg" alt="Screenshot Halaman Home" width="250" />
+  <img src="./assets/home.jpeg" alt="Screenshot Halaman Home" width="250" />
 </p>
 
 ## Cara Menjalankan
